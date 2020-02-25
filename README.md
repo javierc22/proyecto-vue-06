@@ -2,7 +2,7 @@
 
 <img src="img_app06_01.png" height="300">
 
-<img src="img_app06_02.png" height="300">
+<img src="img_app06_02.png" height="250">
 
 ## Project setup
 ```
