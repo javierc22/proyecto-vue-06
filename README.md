@@ -4,20 +4,21 @@
 
 <img src="img_app06_02.png" height="250">
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Vue js 2 Completo ¡De 0 a Experto! + Firebase + Node [MEVN]
+### Vue.js 2 Aprende con la práctica, descubriendo Vuex, Rutas protegidas, Vue CLI 3 UI, Nuxt.js, Node.js, Express y MongoDB
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### BOOTSTRAP 4 + Vue + Formularios
+- Instalar Boostrap 4 en Vue a través de NPM
+- Navbar y Class Active en Router Link
+- Columnas responsives (Row/Col)
+- Botones y Cards
+- Form Input Text / Number
+- Form Input Select / Radio / Checkbox
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### VUELIDATE - Validaciones Formularios
+- Instalación y configuración de Vuelidate
+- Validación de E-mail
+- Validación de contraseñas
+- Validar Botón Submit
+- Lazy: Generar espera para validar
